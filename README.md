@@ -42,6 +42,7 @@ MetaGlyph: ∈ ∪ → ⊕
 Инлайн-код: code
 JSON: "key": "value"
 Декораторы: +++Format
+
 Запуск проекта
 
 npm install
